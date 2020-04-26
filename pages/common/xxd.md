@@ -24,4 +24,4 @@
 
 - Revert a plaintext hexdump back into binary, and save it as a binary file:
 
-`xxd -r -p {{input_file}} {{output_file}}`
+`xxd -r {{input_file}} {{output_file}}`
